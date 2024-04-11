@@ -24,17 +24,16 @@ let TASK_FOR_TOMORROW = [
     "wake up at 7",
     "take a shower",
     "go to the gym",
-    "go back home",
+    "go back home ",
     "make my dinner",
 ];
 
 let WATCH ={
-    Brand: "Fossil", 
+    Brand: "fossil",
     Color: "black",
     Stopwatch: true,
 };
-
-console.log("Tomorrow the first thing that I'm gonna do is " + TASK_FOR_TOMORROW[0]); 
-console.log("Does my watch have a stopwatch? " + WATCH.Stopwatch); 
+console.log ("Tomorrow the firsst thing that I'm gonna do is "+TASK_FOR_TOMORROW[0]);
+console.log ("Does my watch have a stopwatch?" + WATCH.Stopwatch);
 
 
